@@ -204,7 +204,7 @@
 					    <img class="card-img-top gambar2" src="picture/tanya.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
 					    <div class="card-body border" style="background-color: white;">
 					      <h4 class="card-title"><b>Tanya Larasati</b></h4>
-					      <p class="card-text">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."</p>
+					      <p class="card-text">"Personally I like this spa because they tend to compete on quality for regular guests more often and less aesthetically for tourists who want a quiet setting and a calm waterfall."</p>
 					    </div>
 					</div>
 				</div>
@@ -213,7 +213,7 @@
 					    <img class="card-img-top gambar2" src="picture/zivanna.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
 					    <div class="card-body border" style="background-color: white;">
 					      <h4 class="card-title"><b>Zivanna Letisha</b></h4>
-					      <p class="card-text">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."</p>
+					      <p class="card-text">"Personally I like this spa because they tend to compete on quality for regular guests more often and less aesthetically for tourists who want a quiet setting and a calm waterfall.."</p>
 					    </div>
 					</div>
 				</div>
@@ -222,7 +222,7 @@
 					    <img class="card-img-top gambar2" src="picture/tiqasya.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
 					    <div class="card-body border" style="background-color: white;">
 					      <h4 class="card-title"><b>Tiqasya</b></h4>
-					      <p class="card-text">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."</p>
+					      <p class="card-text">"Personally I like this spa because they tend to compete on quality for regular guests more often and less aesthetically for tourists who want a quiet setting and a calm waterfall.."</p>
 					    </div>
 					</div>
 				</div>
