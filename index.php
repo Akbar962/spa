@@ -201,27 +201,27 @@
 				<div class="col-md-4">
 					<div class="" style="border: 3px solid #f1f1f1">
 						<!-- <div style="background-image: url('picture/zx.gid');width: 100%;height: 200px;"></div> -->
-					    <img class="card-img-top gambar2" src="picture/zx.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
+					    <img class="card-img-top gambar2" src="picture/tanya.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
 					    <div class="card-body border" style="background-color: white;">
-					      <h4 class="card-title"><b>Julie Belle</b></h4>
+					      <h4 class="card-title"><b>Tanya Larasati</b></h4>
 					      <p class="card-text">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."</p>
 					    </div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="" style="border: 3px solid #f1f1f1">
-					    <img class="card-img-top gambar2" src="picture/zx2.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
+					    <img class="card-img-top gambar2" src="picture/zivanna.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
 					    <div class="card-body border" style="background-color: white;">
-					      <h4 class="card-title"><b>Camile Smith</b></h4>
+					      <h4 class="card-title"><b>Zivanna Letisha</b></h4>
 					      <p class="card-text">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."</p>
 					    </div>
 					</div>
 				</div>
 				<div class="col-md-4">
 					<div class="" style="border: 3px solid #f1f1f1">
-					    <img class="card-img-top gambar2" src="picture/zx3.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
+					    <img class="card-img-top gambar2" src="picture/tiqasya.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
 					    <div class="card-body border" style="background-color: white;">
-					      <h4 class="card-title"><b>Laura Thomas</b></h4>
+					      <h4 class="card-title"><b>Tiqasya</b></h4>
 					      <p class="card-text">"At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident."</p>
 					    </div>
 					</div>
