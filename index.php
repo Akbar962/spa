@@ -213,7 +213,7 @@
 					    <img class="card-img-top gambar2" src="picture/zivanna.jpg" alt="Card image" style="width:100%;background-color: #f1f1f1;">
 					    <div class="card-body border" style="background-color: white;">
 					      <h4 class="card-title"><b>Zivanna Letisha</b></h4>
-					      <p class="card-text">"Personally I like this spa because they tend to compete on quality for regular guests more often and less aesthetically for tourists who want a quiet setting and a calm waterfall.."</p>
+					      <p class="card-text">"Personally I like this spa because they tend to compete on quality for regular guests more often and less aesthetically for tourists who want a quiet setting and a calm waterfall..."</p>
 					    </div>
 					</div>
 				</div>
@@ -237,7 +237,7 @@
 			<div class="col-md-4">
 				<div class="col-md-12"><br>
 				<div class="form-group col-md-10 offset-1">
-					<label><h4><b>NEWS & SPECIAL OFFERS:</b></h4></label>
+					<label><h4><b>NEWS & SPECIAL OFFERS:''</b></h4></label>
 					<input class="form-control" type="text" placeholder="enter your mail!">
 					<button class="btn btn-block" style="margin-top: 10px;background-color: #404040;color: white;"><b>submit</b></button>
 				</div>
